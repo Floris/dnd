@@ -7,9 +7,9 @@ Best used in a monospaced font.
 PAGE 1 — CORE CHARACTER SHEET
 =============================
 
-CHARACTER NAME : Copper Dirkenstein
-CLASS & LEVEL  : Ranger 1              BACKGROUND : Guide
-PLAYER NAME    : ____________________  RACE       : Gnome (Rock lineage)
+CHARACTER NAME : Drop Droppertstein
+CLASS & LEVEL  : Ranger 6              BACKGROUND : Guide
+PLAYER NAME    : Floris______________  RACE       : Gnome (Rock lineage)
 ALIGNMENT      : Good                  EXPERIENCE : 0
 
 INSPIRATION    : [     ]
@@ -29,10 +29,10 @@ CHARISMA     Score: 8      Mod: -1
 
 SAVING THROWS
 -------------
-[x] Strength     Bonus: +1 (Ranger)
+[x] Strength     Bonus: +2 (Ranger)
 [x] Dexterity    Bonus: +5 (Ranger)
 [ ] Constitution Bonus: +2
-[ ] Intelligence Bonus: +1
+[ ] Intelligence Bonus: +0
 [ ] Wisdom       Bonus: +3
 [ ] Charisma     Bonus: -1
 
@@ -40,19 +40,19 @@ SKILLS
 ------
 [ ] Acrobatics (Dex)      Bonus: +3
 [x] Animal Handling (Wis) Bonus: +5 (Ranger)
-[ ] Arcana (Int)          Bonus: +1
-[ ] Athletics (Str)       Bonus: -1
+[ ] Arcana (Int)          Bonus: 0
+[ ] Athletics (Str)       Bonus: 0
 [ ] Deception (Cha)       Bonus: -1
-[ ] History (Int)         Bonus: +1
+[ ] History (Int)         Bonus: 0
 [ ] Insight (Wis)         Bonus: +3
 [ ] Intimidation (Cha)    Bonus: -1
-[x] Investigation (Int)   Bonus: +3 (Ranger)
+[x] Investigation (Int)   Bonus: +2 (Ranger)
 [ ] Medicine (Wis)        Bonus: +3
-[ ] Nature (Int)          Bonus: +1
+[ ] Nature (Int)          Bonus: 0
 [x] Perception (Wis)      Bonus: +5 (Ranger)
 [ ] Performance (Cha)     Bonus: -1
 [ ] Persuasion (Cha)      Bonus: -1
-[ ] Religion (Int)        Bonus: +1
+[ ] Religion (Int)        Bonus: 0
 [ ] Sleight of Hand (Dex) Bonus: +3
 [x] Stealth (Dex)         Bonus: +5 (Guide)
 [x] Survival (Wis)        Bonus: +5 (Guide)
@@ -104,24 +104,11 @@ EQUIPMENT
 CP: 0
 SP: 0
 EP: 0
-GP: 10
+GP: 2000 (starting gold)
 PP: 0
 
 Items / Gear:
-Studded Leather Armor
-Scimitar
-Shortsword
-Longbow
-Shortbow
-40 Arrows
-2 Quivers
-Druidic Focus (sprig of mistletoe)
-Explorer's Pack
-Cartographer's Tools
-Tent
-Bedroll
-Traveler's Clothes
-2 Pouches
+
 
 PERSONALITY TRAITS
 ------------------
@@ -159,7 +146,7 @@ Humanoid creature type. (Gnome)
 PAGE 2 — CHARACTER DETAILS
 ==========================
 
-CHARACTER NAME : Copper Dirkenstein
+CHARACTER NAME : Drop Droppertstein
 AGE            : 52                 HEIGHT : 3'4" / 102 cm
 WEIGHT         : 42 lb / 19 kg      EYES   : amber
 SKIN           : warm tan           HAIR   : dark brown with silver braid-rings
