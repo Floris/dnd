@@ -1,0 +1,369 @@
+DUNGEONS & DRAGONS 5E (2024) — CHARACTER SHEET (PLAINTEXT TEMPLATE)
+===================================================================
+This is a text-based rebuild of the official sheet for easy filling in.
+Best used in a monospaced font.
+
+
+PAGE 1 — CORE CHARACTER SHEET
+=============================
+
+CHARACTER NAME : Copper Dirkenstein
+CLASS & LEVEL  : Ranger 1              BACKGROUND : Guide
+PLAYER NAME    : ____________________  RACE       : Gnome (Rock lineage)
+ALIGNMENT      : Good                  EXPERIENCE : 0
+
+INSPIRATION    : [     ]
+PROFICIENCY    : +2
+ARMOR CLASS    : 15
+INITIATIVE     : +3
+SPEED          : 30 ft.
+
+ABILITY SCORES
+--------------
+STRENGTH     Score: 10     Mod: +0
+DEXTERITY    Score: 16     Mod: +3
+CONSTITUTION Score: 14     Mod: +2
+INTELLIGENCE Score: 10     Mod: +0
+WISDOM       Score: 16     Mod: +3
+CHARISMA     Score: 8      Mod: -1
+
+SAVING THROWS
+-------------
+[x] Strength     Bonus: +1 (Ranger)
+[x] Dexterity    Bonus: +5 (Ranger)
+[ ] Constitution Bonus: +2
+[ ] Intelligence Bonus: +1
+[ ] Wisdom       Bonus: +3
+[ ] Charisma     Bonus: -1
+
+SKILLS
+------
+[ ] Acrobatics (Dex)      Bonus: +3
+[x] Animal Handling (Wis) Bonus: +5 (Ranger)
+[ ] Arcana (Int)          Bonus: +1
+[ ] Athletics (Str)       Bonus: -1
+[ ] Deception (Cha)       Bonus: -1
+[ ] History (Int)         Bonus: +1
+[ ] Insight (Wis)         Bonus: +3
+[ ] Intimidation (Cha)    Bonus: -1
+[x] Investigation (Int)   Bonus: +3 (Ranger)
+[ ] Medicine (Wis)        Bonus: +3
+[ ] Nature (Int)          Bonus: +1
+[x] Perception (Wis)      Bonus: +5 (Ranger)
+[ ] Performance (Cha)     Bonus: -1
+[ ] Persuasion (Cha)      Bonus: -1
+[ ] Religion (Int)        Bonus: +1
+[ ] Sleight of Hand (Dex) Bonus: +3
+[x] Stealth (Dex)         Bonus: +5 (Guide)
+[x] Survival (Wis)        Bonus: +5 (Guide)
+
+PASSIVE WISDOM (PERCEPTION): 15
+
+HIT POINTS
+----------
+Hit Point Maximum : 12
+Current Hit Points: 12
+Temporary Hit Pts : 0
+
+HIT DICE
+--------
+Total : 1d10
+Remaining / Notes:
+1d10 available on Short Rest.
+Ranger Hit Die.
+
+DEATH SAVES
+-----------
+Successes: [ ] [ ] [ ]
+Failures : [ ] [ ] [ ]
+
+ATTACKS & SPELLCASTING
+----------------------
+1. Name: Longbow         Attack Bonus: +5   Damage/Type: 1d8+3 Piercing
+2. Name: Shortsword      Attack Bonus: +5   Damage/Type: 1d6+3 Piercing
+3. Name: Scimitar        Attack Bonus: +5   Damage/Type: 1d6+3 Slashing
+4. Hunter's Mark (Favored Enemy) — always prepared; 2 free casts per Long Rest
+5. Cure Wounds (Ranger)
+6. Ensnaring Strike (Ranger)
+7. Goodberry (Magic Initiate: Druid) — 1 free cast per Long Rest
+8. Guidance (Magic Initiate: Druid)
+9. Druidcraft (Magic Initiate: Druid)
+10. Mending / Prestidigitation (Rock Gnome)
+
+OTHER PROFICIENCIES & LANGUAGES
+-------------------------------
+Armor: Light armor, Medium armor, Shields (Ranger)
+Weapons: Simple weapons, Martial weapons (Ranger)
+Tools: Cartographer's Tools (Guide)
+Languages: Common, Gnomish (Gnome), Elvish (Choice)
+Weapon Masteries chosen: Longbow (Slow), Scimitar (Nick) (Weapon Mastery, Ranger)
+Spellcasting focus: Druidic Focus (sprig of mistletoe)
+
+EQUIPMENT
+---------
+CP: 0
+SP: 0
+EP: 0
+GP: 10
+PP: 0
+
+Items / Gear:
+Studded Leather Armor
+Scimitar
+Shortsword
+Longbow
+Shortbow
+40 Arrows
+2 Quivers
+Druidic Focus (sprig of mistletoe)
+Explorer's Pack
+Cartographer's Tools
+Tent
+Bedroll
+Traveler's Clothes
+2 Pouches
+
+PERSONALITY TRAITS
+------------------
+
+IDEALS
+------
+
+
+BONDS
+-----
+
+
+FLAWS
+-----
+
+
+FEATURES & TRAITS
+-----------------
+Darkvision 60 ft. (Gnome)
+Gnomish Cunning: Advantage on Intelligence, Wisdom, and Charisma saving throws. (Gnome)
+Mending, Prestidigitation (Rock Gnome)
+Rock Gnome Tinker: maak Tiny clockwork devices via Prestidigitation. (Rock Gnome)
+Stealth, Survival, Cartographer's Tools (Guide)
+Magic Initiate (Druid): Guidance, Druidcraft, Goodberry. (Guide)
+Spellcasting: 2 level 1 spell slots. (Ranger)
+Prepared Ranger Spells: Cure Wounds, Ensnaring Strike. (Ranger)
+Favored Enemy: Hunter's Mark is always prepared. (Ranger)
+Favored Enemy: Hunter's Mark can be cast 2 times without a spell slot per Long Rest. (Ranger)
+Weapon Mastery: Longbow (Slow), Scimitar (Nick). (Ranger)
+Primary combat style: ranged skirmisher with backup dual-wield melee.
+Small size. (Gnome)
+Humanoid creature type. (Gnome)
+
+
+PAGE 2 — CHARACTER DETAILS
+==========================
+
+CHARACTER NAME : Copper Dirkenstein
+AGE            : 52                 HEIGHT : 3'4" / 102 cm
+WEIGHT         : 42 lb / 19 kg      EYES   : amber
+SKIN           : warm tan           HAIR   : dark brown with silver braid-rings
+
+CHARACTER APPEARANCE
+--------------------
+
+
+ALLIES & ORGANIZATIONS
+----------------------
+Name / Symbol / Notes:
+
+
+CHARACTER BACKSTORY
+-------------------
+
+
+ADDITIONAL FEATURES & TRAITS
+----------------------------
+
+
+TREASURE
+--------
+
+
+
+PAGE 3 — SPELLCASTING
+=====================
+
+CHARACTER NAME      : Copper Dirkenstein
+SPELLCASTING CLASS  : Ranger
+SPELLCASTING ABILITY: Wisdom (Ranger / Magic Initiate: Druid)
+SPELL SAVE DC       : 13
+SPELL ATTACK BONUS  : +5
+
+CANTRIPS
+--------
+[x] Guidance (Magic Initiate: Druid)
+[x] Druidcraft (Magic Initiate: Druid)
+[x] Mending (Rock Gnome)
+[x] Prestidigitation (Rock Gnome)
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+
+LEVEL 1 SPELLS
+--------------
+Slots Total   : 2
+Slots Expended: 0
+
+[x] Hunter's Mark (Favored Enemy)
+[x] Cure Wounds (Ranger)
+[x] Ensnaring Strike (Ranger)
+[x] Goodberry (Magic Initiate: Druid)
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+
+LEVEL 2 SPELLS
+--------------
+Slots Total   : 0
+Slots Expended: 0
+
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+
+LEVEL 3 SPELLS
+--------------
+Slots Total   : 0
+Slots Expended: 0
+
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+
+LEVEL 4 SPELLS
+--------------
+Slots Total   : 0
+Slots Expended: 0
+
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+
+LEVEL 5 SPELLS
+--------------
+Slots Total   : 0
+Slots Expended: 0
+
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+
+LEVEL 6 SPELLS
+--------------
+Slots Total   : 0
+Slots Expended: 0
+
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+
+LEVEL 7 SPELLS
+--------------
+Slots Total   : 0
+Slots Expended: 0
+
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+
+LEVEL 8 SPELLS
+--------------
+Slots Total   : 0
+Slots Expended: 0
+
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+
+LEVEL 9 SPELLS
+--------------
+Slots Total   : 0
+Slots Expended: 0
+
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+[ ] ________________________________
+
+NOTES
+-----
+Hunter's Mark is always prepared from Favored Enemy.
+Hunter's Mark can be cast 2 times for free per Long Rest.
+Goodberry comes from Magic Initiate (Druid) and can be cast 1/LR for free.
+Goodberry can also be cast with Ranger spell slots.
+Mending + Prestidigitation come from Rock Gnome.
+Guidance + Druidcraft come from Magic Initiate (Druid).
+Use Wisdom for Ranger and Magic Initiate spellcasting.
