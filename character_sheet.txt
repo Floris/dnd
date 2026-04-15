@@ -11,27 +11,27 @@ Background      : criminal
 Species         : rock gnome
 Class           : ranger
 Subclass        : hunter
-Level           :
-XP              :
+Level           : 6
+XP              : 14,000
 
 CORE STATS
 ----------
-Armor Class     :
-Shield          :
-Initiative      : +3
-Speed           :
-Size            :
-Passive Percept.: 15
-Proficiency Bonus: +2
+Armor Class     : 13 (10 + Dex; no armor currently)
+Shield          : no
+Initiative      : +6 (Dex +3, Alert +3)
+Speed           : 40 ft. (Gnome 30 ft.; Roving +10 while not wearing Heavy armor)
+Size            : Small (Gnome species)
+Passive Percept.: 16
+Proficiency Bonus: +3
 Heroic Inspiration: [ ]
 
 HIT POINTS / HIT DICE / DEATH SAVES
 -----------------------------------
-HP Current      :
-HP Max          :
-HP Temp         :
-Hit Dice Max    :
-Hit Dice Spent  :
+HP Current      : 52
+HP Max          : 52 (10 + Con at level 1, then 6 + Con for levels 2-6)
+HP Temp         : 0
+Hit Dice Max    : 6d10 (Ranger Hit Dice)
+Hit Dice Spent  : 0
 Death Saves Successes: [ ] [ ] [ ]
 Death Saves Failures : [ ] [ ] [ ]
 
@@ -41,16 +41,16 @@ ABILITY SCORES & SKILLS
 STRENGTH
 Modifier        : +0
 Score           : 10
-Saving Throw    : +2 [x]
+Saving Throw    : +3 [x] (Ranger saving throw proficiency)
 Athletics       : +0 [ ]
 
 DEXTERITY
 Modifier        : +3
 Score           : 16
-Saving Throw    : +5 [x]
+Saving Throw    : +6 [x] (Ranger saving throw proficiency)
 Acrobatics      : +3 [ ]
-Sleight of Hand : +5 [x]
-Stealth         : +5 [x]
+Sleight of Hand : +6 [x] (Criminal background)
+Stealth         : +9 [x] (Criminal background, Expertise from Ranger 2)
 
 CONSTITUTION
 Modifier        : +2
@@ -63,7 +63,7 @@ Score           : 10
 Saving Throw    : +0 [ ]
 Arcana          : +0 [ ]
 History         : +0 [ ]
-Investigation   : +2 [x]
+Investigation   : +3 [x] (Ranger skill)
 Nature          : +0 [ ]
 Religion        : +0 [ ]
 
@@ -74,8 +74,8 @@ Saving Throw    : +3 [ ]
 Animal Handling : +3 [ ]
 Insight         : +3 [ ]
 Medicine        : +3 [ ]
-Perception      : +5 [x]
-Survival        : +5 [x]
+Perception      : +6 [x] (Ranger skill)
+Survival        : +6 [x] (Ranger skill)
 
 CHARISMA
 Modifier        : -1
@@ -84,7 +84,7 @@ Saving Throw    : -1 [ ]
 Deception       : -1 [ ]
 Intimidation    : -1 [ ]
 Performance     : -1 [ ]
-Persuasion      : [ ]
+Persuasion      : -1 [ ]
 
 WEAPONS & DAMAGE CANTRIPS
 -------------------------
@@ -99,28 +99,38 @@ WEAPONS & DAMAGE CANTRIPS
 
 CLASS FEATURES
 --------------
-
-
-
-
+- Spellcasting; 6 prepared Ranger spells; Druidic Focus usable (Ranger 1)
+- Favored Enemy; Hunter's Mark always prepared; 3 free casts per Long Rest (Ranger 1)
+- Weapon Mastery; Longbow and Shortsword (Ranger 1)
+- Deft Explorer; Expertise in Stealth; 2 extra languages (Ranger 2)
+- Fighting Style; Archery, +2 to attack rolls with ranged weapons (Ranger 2)
+- Hunter's Lore; learn a marked creature's immunities, resistances, vulnerabilities (Hunter 3)
+- Hunter's Prey; Colossus Slayer, +1d8 once per turn vs wounded target (Hunter 3)
+- Ability Score Improvement; +2 Dexterity (Ranger 4)
+- Extra Attack; attack twice with the Attack action (Ranger 5)
+- Roving; +10 Speed, Climb Speed 40 ft., Swim Speed 40 ft. while not in Heavy armor (Ranger 6)
 
 SPECIES TRAITS
 --------------
-
-
+- Darkvision 60 ft. (Gnome species)
+- Gnomish Cunning; Advantage on Int, Wis, and Cha saving throws (Gnome species)
+- Mending cantrip (Rock Gnome lineage)
+- Prestidigitation cantrip (Rock Gnome lineage)
+- Clockwork Device; spend 10 minutes with Prestidigitation to make a Tiny device; max 3; lasts 8 hours (Rock Gnome lineage)
 
 FEATS
 -----
-
-
+- Alert; Initiative Proficiency and Initiative Swap (Criminal background)
+- Archery; +2 to attack rolls with ranged weapons (Fighting Style feat from Ranger 2, assumed)
+- Ability Score Improvement; +2 Dexterity (Ranger 4)
 
 EQUIPMENT TRAINING & PROFICIENCIES
 ----------------------------------
-Armor Training  : [ ] Light   [ ] Medium   [ ] Heavy   [ ] Shields
-Weapons         :
+Armor Training  : [x] Light   [x] Medium   [ ] Heavy   [x] Shields (Ranger)
+Weapons         : Simple weapons, Martial weapons (Ranger)
 
 
-Tools           :
+Tools           : Thieves' Tools (Criminal background)
 
 
 ========================================================================
@@ -130,36 +140,36 @@ PAGE 2
 
 SPELLCASTING
 ------------
-Spellcasting Ability :
-Spellcasting Modifier:
-Spell Save DC        :
-Spell Attack Bonus   :
+Spellcasting Ability : Wisdom (Ranger)
+Spellcasting Modifier: +3
+Spell Save DC        : 14
+Spell Attack Bonus   : +6
 
 SPELL SLOTS
 -----------
-Level 1 : Total ____  Expended ____
-Level 2 : Total ____  Expended ____
-Level 3 : Total ____  Expended ____
-Level 4 : Total ____  Expended ____
-Level 5 : Total ____  Expended ____
-Level 6 : Total ____  Expended ____
-Level 7 : Total ____  Expended ____
-Level 8 : Total ____  Expended ____
-Level 9 : Total ____  Expended ____
+Level 1 : Total 4  Expended 0
+Level 2 : Total 2  Expended 0
+Level 3 : Total 0  Expended 0
+Level 4 : Total 0  Expended 0
+Level 5 : Total 0  Expended 0
+Level 6 : Total 0  Expended 0
+Level 7 : Total 0  Expended 0
+Level 8 : Total 0  Expended 0
+Level 9 : Total 0  Expended 0
 
 CANTRIPS & PREPARED SPELLS
 --------------------------
 | Lv | Name                     | Casting Time   | Range         | C | R | M | Notes                |
 |----|--------------------------|----------------|---------------|---|---|---|----------------------|
-|    |                          |                |               |   |   |   |                      |
-|    |                          |                |               |   |   |   |                      |
-|    |                          |                |               |   |   |   |                      |
-|    |                          |                |               |   |   |   |                      |
-|    |                          |                |               |   |   |   |                      |
-|    |                          |                |               |   |   |   |                      |
-|    |                          |                |               |   |   |   |                      |
-|    |                          |                |               |   |   |   |                      |
-|    |                          |                |               |   |   |   |                      |
+| 0  | Mending                  | 1 Minute       | Touch         |   |   | M | (Rock Gnome lineage) |
+| 0  | Prestidigitation         | 1 Action       | 10 ft.        |   |   | V | (Rock Gnome lineage) |
+| 1  | Hunter's Mark            | 1 Bonus Action | 90 ft.        | x |   |   | (Favored Enemy, Ranger 1) |
+| 1  | Cure Wounds              | 1 Action       | Touch         |   |   |   | (Ranger spell, assumed) |
+| 1  | Goodberry                | 1 Action       | Self          |   |   | M | (Ranger spell, assumed) |
+| 1  | Longstrider              | 1 Action       | Touch         |   |   | M | (Ranger spell, assumed) |
+| 1  | Fog Cloud                | 1 Action       | 120 ft.       | x |   |   | (Ranger spell, assumed) |
+| 2  | Pass without Trace       | 1 Action       | Self (30 ft.) | x |   | M | (Ranger spell, assumed) |
+| 2  | Spike Growth             | 1 Action       | 150 ft.       | x |   | M | (Ranger spell, assumed) |
 |    |                          |                |               |   |   |   |                      |
 |    |                          |                |               |   |   |   |                      |
 |    |                          |                |               |   |   |   |                      |
@@ -228,7 +238,11 @@ Alignment:
 
 LANGUAGES
 ---------
-
+- Common (Creating a Character)
+- Gnomish (Creating a Character)
+- Thieves' Cant (Creating a Character, assumed)
+- Undercommon (Deft Explorer, Ranger 2, assumed)
+- Goblin (Deft Explorer, Ranger 2, assumed)
 
 EQUIPMENT
 ---------
@@ -236,9 +250,9 @@ EQUIPMENT
 
 
 Magic Item Attunement:
-[ ] 
-[ ] 
-[ ] 
+[ ]
+[ ]
+[ ]
 
 COINS
 -----
