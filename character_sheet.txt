@@ -16,8 +16,8 @@ XP              : 14,000
 
 CORE STATS
 ----------
-Armor Class     : 14 (10 + Dex; no armor currently)
-Shield          : no
+Armor Class     : 17 (Half Plate 15 + Dex max 2); 19 with shield equipped
+Shield          : yes (+2 AC; not used while attacking with Longbow)
 Initiative      : +7 (Dex +4, Alert +3)
 Speed           : 40 ft. (Gnome 30 ft.; Roving +10 while not wearing Heavy armor)
 Size            : Small (Gnome species)
@@ -90,8 +90,9 @@ WEAPONS & DAMAGE CANTRIPS
 -------------------------
 | Name                    | Atk Bonus / DC | Damage & Type        | Notes                |
 |-------------------------|----------------|----------------------|----------------------|
-|                         |                |                      |                      |
-|                         |                |                      |                      |
+| Longbow                 | +9             | 1d8 + 4 Piercing     | Proficient (Ranger), Archery style, Ammo, Heavy, Two-Handed, Range 150/600 |
+| Shortsword              | +7             | 1d6 + 4 Piercing     | Proficient (Ranger), Finesse, Light |
+| Unarmed Strike          | +7             | 1 + 4 Bludgeoning    | Default melee option |
 |                         |                |                      |                      |
 |                         |                |                      |                      |
 |                         |                |                      |                      |
@@ -130,7 +131,7 @@ Armor Training  : [x] Light   [x] Medium   [ ] Heavy   [x] Shields (Ranger)
 Weapons         : Simple weapons, Martial weapons (Ranger)
 
 
-Tools           : Thieves' Tools (Criminal background)
+Tools           : Thieves' Tools proficiency (Criminal background)
 
 
 ========================================================================
@@ -159,32 +160,44 @@ Level 9 : Total 0  Expended 0
 
 CANTRIPS & PREPARED SPELLS
 --------------------------
-| Lv | Name                     | Casting Time   | Range         | C | R | M | Notes                |
-|----|--------------------------|----------------|---------------|---|---|---|----------------------|
-| 0  | Mending                  | 1 Minute       | Touch         |   |   | M | (Rock Gnome lineage) |
-| 0  | Prestidigitation         | 1 Action       | 10 ft.        |   |   | V | (Rock Gnome lineage) |
-| 1  | Hunter's Mark            | 1 Bonus Action | 90 ft.        | x |   |   | (Favored Enemy, Ranger 1) |
-| 1  | Cure Wounds              | 1 Action       | Touch         |   |   |   | (Ranger spell, assumed) |
-| 1  | Goodberry                | 1 Action       | Self          |   |   | M | (Ranger spell, assumed) |
-| 1  | Longstrider              | 1 Action       | Touch         |   |   | M | (Ranger spell, assumed) |
-| 1  | Fog Cloud                | 1 Action       | 120 ft.       | x |   |   | (Ranger spell, assumed) |
-| 2  | Pass without Trace       | 1 Action       | Self (30 ft.) | x |   | M | (Ranger spell, assumed) |
-| 2  | Spike Growth             | 1 Action       | 150 ft.       | x |   | M | (Ranger spell, assumed) |
-|    |                          |                |               |   |   |   |                      |
-|    |                          |                |               |   |   |   |                      |
-|    |                          |                |               |   |   |   |                      |
-|    |                          |                |               |   |   |   |                      |
-|    |                          |                |               |   |   |   |                      |
-|    |                          |                |               |   |   |   |                      |
-|    |                          |                |               |   |   |   |                      |
-|    |                          |                |               |   |   |   |                      |
-|    |                          |                |               |   |   |   |                      |
-|    |                          |                |               |   |   |   |                      |
-|    |                          |                |               |   |   |   |                      |
+Abbreviations:
+- V = Verbal component; you speak the spell aloud
+- S = Somatic component; you use hand or body gestures
+- M = Material component; you need listed materials or a focus/pouch if allowed
+- C = Concentration; you must maintain focus to keep the spell active
+- R = Ritual; the spell can be cast as a ritual if a rule lets you do that
+
+| Lv | Name                     | Casting Time   | Range         | V | S | M | C | R | Notes                         |
+|----|--------------------------|----------------|---------------|---|---|---|---|---|-------------------------------|
+| 0  | Mending                  | 1 Minute       | Touch         | x | x | x |   |   | (Rock Gnome lineage)          |
+| 0  | Prestidigitation         | 1 Action       | 10 ft.        | x | x |   |   |   | (Rock Gnome lineage)          |
+| 1  | Hunter's Mark            | 1 Bonus Action | 90 ft.        | x |   |   | x |   | (Favored Enemy, Ranger 1)     |
+| 1  | Cure Wounds              | 1 Action       | Touch         | x | x |   |   |   | (Ranger spell)                |
+| 1  | Goodberry                | 1 Action       | Self          | x | x | x |   |   | (Ranger spell)                |
+| 1  | Longstrider              | 1 Action       | Touch         | x | x | x |   |   | (Ranger spell)                |
+| 1  | Fog Cloud                | 1 Action       | 120 ft.       | x | x |   | x |   | (Ranger spell)                |
+| 2  | Pass without Trace       | 1 Action       | Self (30 ft.) | x | x | x | x |   | (Ranger spell)                |
+| 2  | Spike Growth             | 1 Action       | 150 ft.       | x | x | x | x |   | (Ranger spell)                |
+|    |                          |                |               |   |   |   |   |   |                               |
+|    |                          |                |               |   |   |   |   |   |                               |
+|    |                          |                |               |   |   |   |   |   |                               |
+|    |                          |                |               |   |   |   |   |   |                               |
+|    |                          |                |               |   |   |   |   |   |                               |
+|    |                          |                |               |   |   |   |   |   |                               |
+|    |                          |                |               |   |   |   |   |   |                               |
+|    |                          |                |               |   |   |   |   |   |                               |
+|    |                          |                |               |   |   |   |   |   |                               |
+|    |                          |                |               |   |   |   |   |   |                               |
+|    |                          |                |               |   |   |   |   |   |                               |
 
 APPEARANCE
 ----------
-
+Small rock gnome with a bald head, weathered brown boots, and layered
+traveler's clothes worn under dull steel half plate. A rough brown beard
+and mustache frame a face with one missing tooth, giving him a crooked,
+streetwise grin. A coil hangs at his neck, visible even over the armor,
+while a longbow, quiver, shortsword, and clusters of kits and tools make
+him look more like a prepared scavenger-hunter than a polished soldier.
 
 
 BACKSTORY & PERSONALITY
@@ -246,9 +259,24 @@ LANGUAGES
 
 EQUIPMENT
 ---------
+- Longbow, 50 gp (usable and proficient: Ranger has Martial weapon proficiency)
+- Half Plate Armor, 750 gp (Medium armor; AC 15 + Dex max 2)
+- Shortsword, 10 gp
+- Arrows, 20, 1 gp
+- Disguise Kit x2, 50 gp total
+- Thieves' Tools x4, 100 gp total
+- Explorer's Pack, 10 gp
+- Climber's Kit, 25 gp
+- Clothes, Traveler's, 2 gp
+- Hunting Trap, 5 gp
+- Torch, 1 gp
+- Waterskin x5, 10 gp total
+- Quiver, 1 gp, 1 lb
+- Shield, 10 gp, +2 AC
+- Coil (see backstory)
 
-
-
+Total spent: 1,025 gp
+GP remaining: 975 gp
 Magic Item Attunement:
 [ ]
 [ ]
@@ -259,5 +287,5 @@ COINS
 CP:
 SP:
 EP:
-GP: 2000
+GP: 975
 PP:
