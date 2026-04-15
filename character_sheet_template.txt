@@ -1,0 +1,207 @@
+D&D 5E (2024) CHARACTER SHEET TEMPLATE
+======================================
+
+PAGE 1
+======
+
+BASIC INFO
+----------
+Character Name  :
+Background      :
+Species         :
+Class           :
+Subclass        :
+Level           :
+XP              :
+
+CORE STATS
+----------
+Armor Class     :
+Shield          :
+Initiative      :
+Speed           :
+Size            :
+Passive Percept.:
+Proficiency Bonus:
+Heroic Inspiration: [ ]
+
+HIT POINTS / HIT DICE / DEATH SAVES
+-----------------------------------
+HP Current      :
+HP Max          :
+HP Temp         :
+Hit Dice Max    :
+Hit Dice Spent  :
+Death Saves Successes: [ ] [ ] [ ]
+Death Saves Failures : [ ] [ ] [ ]
+
+ABILITY SCORES & SKILLS
+-----------------------
+
+STRENGTH
+Modifier        :
+Score           :
+Saving Throw    : [ ] 
+Athletics       : [ ]
+
+DEXTERITY
+Modifier        :
+Score           :
+Saving Throw    : [ ]
+Acrobatics      : [ ]
+Sleight of Hand : [ ]
+Stealth         : [ ]
+
+CONSTITUTION
+Modifier        :
+Score           :
+Saving Throw    : [ ]
+
+INTELLIGENCE
+Modifier        :
+Score           :
+Saving Throw    : [ ]
+Arcana          : [ ]
+History         : [ ]
+Investigation   : [ ]
+Nature          : [ ]
+Religion        : [ ]
+
+WISDOM
+Modifier        :
+Score           :
+Saving Throw    : [ ]
+Animal Handling : [ ]
+Insight         : [ ]
+Medicine        : [ ]
+Perception      : [ ]
+Survival        : [ ]
+
+CHARISMA
+Modifier        :
+Score           :
+Saving Throw    : [ ]
+Deception       : [ ]
+Intimidation    : [ ]
+Performance     : [ ]
+Persuasion      : [ ]
+
+WEAPONS & DAMAGE CANTRIPS
+-------------------------
+| Name                    | Atk Bonus / DC | Damage & Type        | Notes                |
+|-------------------------|----------------|----------------------|----------------------|
+|                         |                |                      |                      |
+|                         |                |                      |                      |
+|                         |                |                      |                      |
+|                         |                |                      |                      |
+|                         |                |                      |                      |
+|                         |                |                      |                      |
+
+CLASS FEATURES
+--------------
+
+
+
+
+
+SPECIES TRAITS
+--------------
+
+
+
+FEATS
+-----
+
+
+
+EQUIPMENT TRAINING & PROFICIENCIES
+----------------------------------
+Armor Training  : [ ] Light   [ ] Medium   [ ] Heavy   [ ] Shields
+Weapons         :
+
+
+Tools           :
+
+
+========================================================================
+
+PAGE 2
+======
+
+SPELLCASTING
+------------
+Spellcasting Ability :
+Spellcasting Modifier:
+Spell Save DC        :
+Spell Attack Bonus   :
+
+SPELL SLOTS
+-----------
+Level 1 : Total ____  Expended ____
+Level 2 : Total ____  Expended ____
+Level 3 : Total ____  Expended ____
+Level 4 : Total ____  Expended ____
+Level 5 : Total ____  Expended ____
+Level 6 : Total ____  Expended ____
+Level 7 : Total ____  Expended ____
+Level 8 : Total ____  Expended ____
+Level 9 : Total ____  Expended ____
+
+CANTRIPS & PREPARED SPELLS
+--------------------------
+| Lv | Name                     | Casting Time   | Range         | C | R | M | Notes                |
+|----|--------------------------|----------------|---------------|---|---|---|----------------------|
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+
+APPEARANCE
+----------
+
+
+
+BACKSTORY & PERSONALITY
+-----------------------
+
+
+
+Alignment:
+
+LANGUAGES
+---------
+
+
+EQUIPMENT
+---------
+
+
+
+Magic Item Attunement:
+[ ] 
+[ ] 
+[ ] 
+
+COINS
+-----
+CP:
+SP:
+EP:
+GP:
+PP:

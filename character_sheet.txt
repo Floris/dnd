@@ -1,356 +1,249 @@
-DUNGEONS & DRAGONS 5E (2024) — CHARACTER SHEET (PLAINTEXT TEMPLATE)
-===================================================================
-This is a text-based rebuild of the official sheet for easy filling in.
-Best used in a monospaced font.
+D&D 5E (2024) CHARACTER SHEET
+============================
 
+PAGE 1
+======
 
-PAGE 1 — CORE CHARACTER SHEET
-=============================
-
-CHARACTER NAME : Drop Droppertstein
-CLASS & LEVEL  : Ranger 6              BACKGROUND : Guide
-PLAYER NAME    : Floris______________  RACE       : Gnome (Rock lineage)
-ALIGNMENT      : Good                  EXPERIENCE : 0
-
-INSPIRATION    : [     ]
-PROFICIENCY    : +2
-ARMOR CLASS    : 15
-INITIATIVE     : +3
-SPEED          : 30 ft.
-
-ABILITY SCORES
---------------
-STRENGTH     Score: 10     Mod: +0
-DEXTERITY    Score: 16     Mod: +3
-CONSTITUTION Score: 14     Mod: +2
-INTELLIGENCE Score: 10     Mod: +0
-WISDOM       Score: 16     Mod: +3
-CHARISMA     Score: 8      Mod: -1
-
-SAVING THROWS
--------------
-[x] Strength     Bonus: +2 (Ranger)
-[x] Dexterity    Bonus: +5 (Ranger)
-[ ] Constitution Bonus: +2
-[ ] Intelligence Bonus: +0
-[ ] Wisdom       Bonus: +3
-[ ] Charisma     Bonus: -1
-
-SKILLS
-------
-[ ] Acrobatics (Dex)      Bonus: +3
-[x] Animal Handling (Wis) Bonus: +5 (Ranger)
-[ ] Arcana (Int)          Bonus: 0
-[ ] Athletics (Str)       Bonus: 0
-[ ] Deception (Cha)       Bonus: -1
-[ ] History (Int)         Bonus: 0
-[ ] Insight (Wis)         Bonus: +3
-[ ] Intimidation (Cha)    Bonus: -1
-[x] Investigation (Int)   Bonus: +2 (Ranger)
-[ ] Medicine (Wis)        Bonus: +3
-[ ] Nature (Int)          Bonus: 0
-[x] Perception (Wis)      Bonus: +5 (Ranger)
-[ ] Performance (Cha)     Bonus: -1
-[ ] Persuasion (Cha)      Bonus: -1
-[ ] Religion (Int)        Bonus: 0
-[ ] Sleight of Hand (Dex) Bonus: +3
-[x] Stealth (Dex)         Bonus: +5 (Guide)
-[x] Survival (Wis)        Bonus: +5 (Guide)
-
-PASSIVE WISDOM (PERCEPTION): 15
-
-HIT POINTS
+BASIC INFO
 ----------
-Hit Point Maximum : 12
-Current Hit Points: 12
-Temporary Hit Pts : 0
+Character Name  : droppert droppertstein
+Background      : criminal
+Species         : rock gnome
+Class           : ranger
+Subclass        : hunter
+Level           :
+XP              :
 
-HIT DICE
---------
-Total : 1d10
-Remaining / Notes:
-1d10 available on Short Rest.
-Ranger Hit Die.
+CORE STATS
+----------
+Armor Class     :
+Shield          :
+Initiative      : +3
+Speed           :
+Size            :
+Passive Percept.: 15
+Proficiency Bonus: +2
+Heroic Inspiration: [ ]
 
-DEATH SAVES
+HIT POINTS / HIT DICE / DEATH SAVES
+-----------------------------------
+HP Current      :
+HP Max          :
+HP Temp         :
+Hit Dice Max    :
+Hit Dice Spent  :
+Death Saves Successes: [ ] [ ] [ ]
+Death Saves Failures : [ ] [ ] [ ]
+
+ABILITY SCORES & SKILLS
+-----------------------
+
+STRENGTH
+Modifier        : +0
+Score           : 10
+Saving Throw    : +2 [x]
+Athletics       : +0 [ ]
+
+DEXTERITY
+Modifier        : +3
+Score           : 16
+Saving Throw    : +5 [x]
+Acrobatics      : +3 [ ]
+Sleight of Hand : +5 [x]
+Stealth         : +5 [x]
+
+CONSTITUTION
+Modifier        : +2
+Score           : 14
+Saving Throw    : +2 [ ]
+
+INTELLIGENCE
+Modifier        : +0
+Score           : 10
+Saving Throw    : +0 [ ]
+Arcana          : +0 [ ]
+History         : +0 [ ]
+Investigation   : +2 [x]
+Nature          : +0 [ ]
+Religion        : +0 [ ]
+
+WISDOM
+Modifier        : +3
+Score           : 16
+Saving Throw    : +3 [ ]
+Animal Handling : +3 [ ]
+Insight         : +3 [ ]
+Medicine        : +3 [ ]
+Perception      : +5 [x]
+Survival        : +5 [x]
+
+CHARISMA
+Modifier        : -1
+Score           : 8
+Saving Throw    : -1 [ ]
+Deception       : -1 [ ]
+Intimidation    : -1 [ ]
+Performance     : -1 [ ]
+Persuasion      : [ ]
+
+WEAPONS & DAMAGE CANTRIPS
+-------------------------
+| Name                    | Atk Bonus / DC | Damage & Type        | Notes                |
+|-------------------------|----------------|----------------------|----------------------|
+|                         |                |                      |                      |
+|                         |                |                      |                      |
+|                         |                |                      |                      |
+|                         |                |                      |                      |
+|                         |                |                      |                      |
+|                         |                |                      |                      |
+
+CLASS FEATURES
+--------------
+
+
+
+
+
+SPECIES TRAITS
+--------------
+
+
+
+FEATS
+-----
+
+
+
+EQUIPMENT TRAINING & PROFICIENCIES
+----------------------------------
+Armor Training  : [ ] Light   [ ] Medium   [ ] Heavy   [ ] Shields
+Weapons         :
+
+
+Tools           :
+
+
+========================================================================
+
+PAGE 2
+======
+
+SPELLCASTING
+------------
+Spellcasting Ability :
+Spellcasting Modifier:
+Spell Save DC        :
+Spell Attack Bonus   :
+
+SPELL SLOTS
 -----------
-Successes: [ ] [ ] [ ]
-Failures : [ ] [ ] [ ]
+Level 1 : Total ____  Expended ____
+Level 2 : Total ____  Expended ____
+Level 3 : Total ____  Expended ____
+Level 4 : Total ____  Expended ____
+Level 5 : Total ____  Expended ____
+Level 6 : Total ____  Expended ____
+Level 7 : Total ____  Expended ____
+Level 8 : Total ____  Expended ____
+Level 9 : Total ____  Expended ____
 
-ATTACKS & SPELLCASTING
-----------------------
-1. Name: Longbow         Attack Bonus: +5   Damage/Type: 1d8+3 Piercing
-2. Name: Shortsword      Attack Bonus: +5   Damage/Type: 1d6+3 Piercing
-3. Name: Scimitar        Attack Bonus: +5   Damage/Type: 1d6+3 Slashing
-4. Hunter's Mark (Favored Enemy) — always prepared; 2 free casts per Long Rest
-5. Cure Wounds (Ranger)
-6. Ensnaring Strike (Ranger)
-7. Goodberry (Magic Initiate: Druid) — 1 free cast per Long Rest
-8. Guidance (Magic Initiate: Druid)
-9. Druidcraft (Magic Initiate: Druid)
-10. Mending / Prestidigitation (Rock Gnome)
+CANTRIPS & PREPARED SPELLS
+--------------------------
+| Lv | Name                     | Casting Time   | Range         | C | R | M | Notes                |
+|----|--------------------------|----------------|---------------|---|---|---|----------------------|
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
+|    |                          |                |               |   |   |   |                      |
 
-OTHER PROFICIENCIES & LANGUAGES
--------------------------------
-Armor: Light armor, Medium armor, Shields (Ranger)
-Weapons: Simple weapons, Martial weapons (Ranger)
-Tools: Cartographer's Tools (Guide)
-Languages: Common, Gnomish (Gnome), Elvish (Choice)
-Weapon Masteries chosen: Longbow (Slow), Scimitar (Nick) (Weapon Mastery, Ranger)
-Spellcasting focus: Druidic Focus (sprig of mistletoe)
+APPEARANCE
+----------
+
+
+
+BACKSTORY & PERSONALITY
+-----------------------
+The world is called Suhmara - a vast, lifeless planet covered in eternal
+magical darkness. No sun, no stars, no dawn. In the skies above Suhmara,
+a gargantuan castle-like structure known as "The Craydle" floats in low
+orbit, glowing faintly like a pale, hollow moon.
+
+This multi-levelled fortress is where you were born. It's where you live.
+It's where you die. And it's all you know.
+
+Inside, the Craydle is far from a traditional castle. Each floor is its own
+world - some spanning the size of a small country, others no larger than a
+village. Every floor has its own ecosystem, terrain, and inhabitants. Some
+are wild. Some are civilized. Others are something else entirely.
+
+At birth, every person receives a Coil - a magically conjured necklace that
+appears without ceremony or explanation. Coils represent your power level or
+potential. No one knows what conjures them, nor why, but their meaning is
+universally accepted.
+
+- Coils are removable and not bound to the person.
+- They grant access, status, and in rare circles, function as a form of currency.
+- The Coil you wear defines how others treat you.
+
+The higher your rank, the higher your floor - and the greater your opportunities.
+Each floor has its own laws, customs, and power structures. Some are ruled by
+councils, others by warlords or guilds. Some floors are lawless wilderness.
+
+But one truth holds everywhere:
+Power is visible. Defiance rarely ends well.
+
+Recently, rumors have stirred of Chainforged sightings on the lower levels.
+The Chainforged are a guild known for their brutal codes and trial-by-combat
+culture. Their presence here is unnerving - and no one knows why they've come down.
+
+You begin your journey on Floor 7, a modest but established settlement known
+as Braka. It is one of the first floors to support organized society: small
+crafters, stable trade, and decently built housing for those ranked D2 and above.
+The air carries the scent of perpetual spring - light forests, rolling hills,
+and scattered wildlife stretch to the edge of this level.
+
+The city is informally governed by a loose guild known as the Hollow Sigil,
+who act as enforcers, mediators, and scouts for the surrounding region.
+
+Braka's heart beats in The Cracked Coil, a worn tavern that hosts rumors,
+drink, and contracts for those desperate enough - or strong enough - to take them.
+
+Alignment:
+
+LANGUAGES
+---------
+
 
 EQUIPMENT
 ---------
-CP: 0
-SP: 0
-EP: 0
-GP: 2000 (starting gold)
-PP: 0
-
-Items / Gear:
 
 
-PERSONALITY TRAITS
-------------------
 
-IDEALS
-------
+Magic Item Attunement:
+[ ] 
+[ ] 
+[ ] 
 
-
-BONDS
+COINS
 -----
-
-
-FLAWS
------
-
-
-FEATURES & TRAITS
------------------
-Darkvision 60 ft. (Gnome)
-Gnomish Cunning: Advantage on Intelligence, Wisdom, and Charisma saving throws. (Gnome)
-Mending, Prestidigitation (Rock Gnome)
-Rock Gnome Tinker: maak Tiny clockwork devices via Prestidigitation. (Rock Gnome)
-Stealth, Survival, Cartographer's Tools (Guide)
-Magic Initiate (Druid): Guidance, Druidcraft, Goodberry. (Guide)
-Spellcasting: 2 level 1 spell slots. (Ranger)
-Prepared Ranger Spells: Cure Wounds, Ensnaring Strike. (Ranger)
-Favored Enemy: Hunter's Mark is always prepared. (Ranger)
-Favored Enemy: Hunter's Mark can be cast 2 times without a spell slot per Long Rest. (Ranger)
-Weapon Mastery: Longbow (Slow), Scimitar (Nick). (Ranger)
-Primary combat style: ranged skirmisher with backup dual-wield melee.
-Small size. (Gnome)
-Humanoid creature type. (Gnome)
-
-
-PAGE 2 — CHARACTER DETAILS
-==========================
-
-CHARACTER NAME : Drop Droppertstein
-AGE            : 52                 HEIGHT : 3'4" / 102 cm
-WEIGHT         : 42 lb / 19 kg      EYES   : amber
-SKIN           : warm tan           HAIR   : dark brown with silver braid-rings
-
-CHARACTER APPEARANCE
---------------------
-
-
-ALLIES & ORGANIZATIONS
-----------------------
-Name / Symbol / Notes:
-
-
-CHARACTER BACKSTORY
--------------------
-
-
-ADDITIONAL FEATURES & TRAITS
-----------------------------
-
-
-TREASURE
---------
-
-
-
-PAGE 3 — SPELLCASTING
-=====================
-
-CHARACTER NAME      : Copper Dirkenstein
-SPELLCASTING CLASS  : Ranger
-SPELLCASTING ABILITY: Wisdom (Ranger / Magic Initiate: Druid)
-SPELL SAVE DC       : 13
-SPELL ATTACK BONUS  : +5
-
-CANTRIPS
---------
-[x] Guidance (Magic Initiate: Druid)
-[x] Druidcraft (Magic Initiate: Druid)
-[x] Mending (Rock Gnome)
-[x] Prestidigitation (Rock Gnome)
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-
-LEVEL 1 SPELLS
---------------
-Slots Total   : 2
-Slots Expended: 0
-
-[x] Hunter's Mark (Favored Enemy)
-[x] Cure Wounds (Ranger)
-[x] Ensnaring Strike (Ranger)
-[x] Goodberry (Magic Initiate: Druid)
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-
-LEVEL 2 SPELLS
---------------
-Slots Total   : 0
-Slots Expended: 0
-
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-
-LEVEL 3 SPELLS
---------------
-Slots Total   : 0
-Slots Expended: 0
-
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-
-LEVEL 4 SPELLS
---------------
-Slots Total   : 0
-Slots Expended: 0
-
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-
-LEVEL 5 SPELLS
---------------
-Slots Total   : 0
-Slots Expended: 0
-
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-
-LEVEL 6 SPELLS
---------------
-Slots Total   : 0
-Slots Expended: 0
-
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-
-LEVEL 7 SPELLS
---------------
-Slots Total   : 0
-Slots Expended: 0
-
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-
-LEVEL 8 SPELLS
---------------
-Slots Total   : 0
-Slots Expended: 0
-
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-
-LEVEL 9 SPELLS
---------------
-Slots Total   : 0
-Slots Expended: 0
-
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-[ ] ________________________________
-
-NOTES
------
-Hunter's Mark is always prepared from Favored Enemy.
-Hunter's Mark can be cast 2 times for free per Long Rest.
-Goodberry comes from Magic Initiate (Druid) and can be cast 1/LR for free.
-Goodberry can also be cast with Ranger spell slots.
-Mending + Prestidigitation come from Rock Gnome.
-Guidance + Druidcraft come from Magic Initiate (Druid).
-Use Wisdom for Ranger and Magic Initiate spellcasting.
+CP:
+SP:
+EP:
+GP: 2000
+PP:
