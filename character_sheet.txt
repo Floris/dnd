@@ -16,9 +16,9 @@ XP              : 14,000
 
 CORE STATS
 ----------
-Armor Class     : 13 (10 + Dex; no armor currently)
+Armor Class     : 14 (10 + Dex; no armor currently)
 Shield          : no
-Initiative      : +6 (Dex +3, Alert +3)
+Initiative      : +7 (Dex +4, Alert +3)
 Speed           : 40 ft. (Gnome 30 ft.; Roving +10 while not wearing Heavy armor)
 Size            : Small (Gnome species)
 Passive Percept.: 16
@@ -45,12 +45,12 @@ Saving Throw    : +3 [x] (Ranger saving throw proficiency)
 Athletics       : +0 [ ]
 
 DEXTERITY
-Modifier        : +3
-Score           : 16
-Saving Throw    : +6 [x] (Ranger saving throw proficiency)
-Acrobatics      : +3 [ ]
-Sleight of Hand : +6 [x] (Criminal background)
-Stealth         : +9 [x] (Criminal background, Expertise from Ranger 2)
+Modifier        : +4
+Score           : 16 (base) + 2 (Ability Score Improvement, Ranger 4) = 18
+Saving Throw    : +7 [x] (Ranger saving throw proficiency)
+Acrobatics      : +4 [ ]
+Sleight of Hand : +7 [x] (Criminal background)
+Stealth         : +10 [x] (Criminal background, Expertise from Ranger 2)
 
 CONSTITUTION
 Modifier        : +2
@@ -106,7 +106,7 @@ CLASS FEATURES
 - Fighting Style; Archery, +2 to attack rolls with ranged weapons (Ranger 2)
 - Hunter's Lore; learn a marked creature's immunities, resistances, vulnerabilities (Hunter 3)
 - Hunter's Prey; Colossus Slayer, +1d8 once per turn vs wounded target (Hunter 3)
-- Ability Score Improvement; +2 Dexterity (Ranger 4)
+- Ability Score Improvement; +2 Dexterity; Dexterity 16 -> 18 (Ranger 4)
 - Extra Attack; attack twice with the Attack action (Ranger 5)
 - Roving; +10 Speed, Climb Speed 40 ft., Swim Speed 40 ft. while not in Heavy armor (Ranger 6)
 
@@ -122,7 +122,7 @@ FEATS
 -----
 - Alert; Initiative Proficiency and Initiative Swap (Criminal background)
 - Archery; +2 to attack rolls with ranged weapons (Fighting Style feat from Ranger 2, assumed)
-- Ability Score Improvement; +2 Dexterity (Ranger 4)
+- Ability Score Improvement; +2 Dexterity; Dexterity 16 -> 18 (Ranger 4)
 
 EQUIPMENT TRAINING & PROFICIENCIES
 ----------------------------------
