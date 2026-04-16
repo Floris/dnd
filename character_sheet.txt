@@ -200,7 +200,7 @@ while a longbow, quiver, shortsword, and clusters of kits and tools make
 him look more like a prepared scavenger-hunter than a polished soldier.
 
 
-BACKSTORY & PERSONALITY
+WORLD BACKSTORY
 -----------------------
 The world is called Suhmara - a vast, lifeless planet covered in eternal
 magical darkness. No sun, no stars, no dawn. In the skies above Suhmara,
@@ -247,7 +247,12 @@ who act as enforcers, mediators, and scouts for the surrounding region.
 Braka's heart beats in The Cracked Coil, a worn tavern that hosts rumors,
 drink, and contracts for those desperate enough - or strong enough - to take them.
 
+CHARACTER BACKSTORY
+-----------------------
+invullen
+
 Alignment:
+Good
 
 LANGUAGES
 ---------
