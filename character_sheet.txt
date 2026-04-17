@@ -249,7 +249,8 @@ drink, and contracts for those desperate enough - or strong enough - to take the
 
 CHARACTER BACKSTORY
 -----------------------
-invullen
+Born on Floor 7, Droppert grew up in Braka’s alleys, smuggling for coin until one job ruined an innocent family. 
+Ashamed, he fled into the wilds, learned to hunt, and returned as a ranger who protects the weak.
 
 Alignment:
 Good
