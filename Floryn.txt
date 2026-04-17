@@ -6,7 +6,7 @@ PAGE 1
 
 BASIC INFO
 ----------
-Character Name  : droppert droppertstein
+Character Name  : Floryn
 Background      : criminal
 Species         : rock gnome
 Class           : ranger
@@ -249,8 +249,11 @@ drink, and contracts for those desperate enough - or strong enough - to take the
 
 CHARACTER BACKSTORY
 -----------------------
-Born on Floor 7, Droppert grew up in Braka’s alleys, smuggling for coin until one job ruined an innocent family. 
-Ashamed, he fled into the wilds, learned to hunt, and returned as a ranger who protects the weak.
+Born on Floor 7, Floryn grew up alone in Braka’s alleys, never knowing his family or the name he should have carried. 
+He survived with quick hands, sharp eyes, and a talent for vanishing where others would be caught, smuggling for coin and picking locks for the right price. 
+But when one job ruined an innocent family, shame drove him into the wilds beyond Braka. 
+There he learned to track, hunt, and live off the land, trading alley cunning for a ranger’s patience and deadly aim. 
+Now Floryn uses the skills that once made him a criminal to protect those too weak to defend themselves.
 
 Alignment:
 Good
