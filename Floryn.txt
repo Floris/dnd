@@ -122,7 +122,7 @@ SPECIES TRAITS
 FEATS
 -----
 - Alert; Initiative Proficiency and Initiative Swap (Criminal background)
-- Archery; +2 to attack rolls with ranged weapons (Fighting Style feat from Ranger 2, assumed)
+- Archery; +2 to attack rolls with ranged weapons (Fighting Style feat from Ranger 2)
 - Ability Score Improvement; +2 Dexterity; Dexterity 16 -> 18 (Ranger 4)
 
 EQUIPMENT TRAINING & PROFICIENCIES
@@ -262,9 +262,9 @@ LANGUAGES
 ---------
 - Common (Creating a Character)
 - Gnomish (Creating a Character)
-- Thieves' Cant (Creating a Character, assumed)
-- Undercommon (Deft Explorer, Ranger 2, assumed)
-- Goblin (Deft Explorer, Ranger 2, assumed)
+- Thieves' Cant (Creating a Character)
+- Undercommon (Deft Explorer, Ranger 2)
+- Goblin (Deft Explorer, Ranger 2)
 
 EQUIPMENT
 ---------
