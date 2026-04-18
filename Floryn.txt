@@ -39,10 +39,10 @@ ABILITY SCORES & SKILLS
 -----------------------
 
 STRENGTH
-Modifier        : +0
-Score           : 10
-Saving Throw    : +3 [x] (Ranger saving throw proficiency)
-Athletics       : +0 [ ]
+Modifier        : -1
+Score           : 8
+Saving Throw    : +2 [x] (Ranger saving throw proficiency)
+Athletics       : -1 [ ]
 
 DEXTERITY
 Modifier        : +4
@@ -58,14 +58,14 @@ Score           : 14
 Saving Throw    : +2 [ ]
 
 INTELLIGENCE
-Modifier        : -1
-Score           : 8
-Saving Throw    : -1 [ ]
-Arcana          : -1 [ ]
-History         : -1 [ ]
-Investigation   : +2 [x] (Ranger skill)
-Nature          : -1 [ ]
-Religion        : -1 [ ]
+Modifier        : +0
+Score           : 10
+Saving Throw    : +0 [ ]
+Arcana          : +0 [ ]
+History         : +0 [ ]
+Investigation   : +3 [x] (Ranger skill)
+Nature          : +0 [ ]
+Religion        : +0 [ ]
 
 WISDOM
 Modifier        : +3
