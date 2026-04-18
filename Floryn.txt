@@ -58,14 +58,14 @@ Score           : 14
 Saving Throw    : +2 [ ]
 
 INTELLIGENCE
-Modifier        : +0
-Score           : 10
-Saving Throw    : +0 [ ]
-Arcana          : +0 [ ]
-History         : +0 [ ]
-Investigation   : +3 [x] (Ranger skill)
-Nature          : +0 [ ]
-Religion        : +0 [ ]
+Modifier        : -1
+Score           : 8
+Saving Throw    : -1 [ ]
+Arcana          : -1 [ ]
+History         : -1 [ ]
+Investigation   : +2 [x] (Ranger skill)
+Nature          : -1 [ ]
+Religion        : -1 [ ]
 
 WISDOM
 Modifier        : +3
@@ -78,13 +78,13 @@ Perception      : +6 [x] (Ranger skill)
 Survival        : +6 [x] (Ranger skill)
 
 CHARISMA
-Modifier        : -1
-Score           : 8
-Saving Throw    : -1 [ ]
-Deception       : -1 [ ]
-Intimidation    : -1 [ ]
-Performance     : -1 [ ]
-Persuasion      : -1 [ ]
+Modifier        : +0
+Score           : 10
+Saving Throw    : +0 [ ]
+Deception       : +0 [ ]
+Intimidation    : +0 [ ]
+Performance     : +0 [ ]
+Persuasion      : +0 [ ]
 
 WEAPONS & DAMAGE CANTRIPS
 -------------------------
