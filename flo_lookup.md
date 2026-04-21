@@ -160,7 +160,7 @@ Floryn is strongest when he:
 ## Hunter's Mark
 **Type:** Spell  
 **Cost:** 1 Bonus Action, Concentration, free cast or 1 spell slot  
-**Effect:** Marks one visible target, adds extra damage when you hit it with attack rolls, and helps you track it.  
+**Effect:** Marks one visible target, adds 1d6 extra damage when you hit it with attack rolls, and helps you track it.  
 **Use it when:** You expect one target to stay alive for several hits.  
 **Remember:** This is your standard boss / priority-target spell. It is weaker when enemies die too fast or when another concentration spell would swing the fight harder.
 
