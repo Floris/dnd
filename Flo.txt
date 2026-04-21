@@ -6,7 +6,7 @@ PAGE 1
 
 BASIC INFO
 ----------
-Character Name  : Floryn
+Character Name  : Flo
 Background      : criminal
 Species         : rock gnome
 Class           : ranger
@@ -249,17 +249,17 @@ drink, and contracts for those desperate enough - or strong enough - to take the
 
 CHARACTER BACKSTORY
 -----------------------
-Born on Floor 13, Floryn never knew his family, nor the name he should have carried. The alleys raised him instead. 
+Born on Floor 13, Flo never knew his family, nor the name he should have carried. The alleys raised him instead. 
 He lived by quick fingers, sharp eyes, and a knack for vanishing before trouble could close its grip.
 He smuggled contraband, opened locked doors, and asked few questions, so long as the coin was good.
 Until the night he took the wrong job.
 He was paid to steal a ledger said to contain evidence against a powerful man. What he actually delivered was a list of protected witnesses. 
-By the time Floryn learned the truth, one innocent family had already been butchered.
+By the time Flo learned the truth, one innocent family had already been butchered.
 Unable to live with what he had done, he disappeared into the mountains of Floor 12.
 There he remade himself. He learned to track blood on stone, hunt in silence, and survive where no one could save him. 
 The cunning of a thief became the discipline of a ranger, and his hands, once used for theft, became hands that killed only when they had to.
 
-Now Floryn:
+Now Flo:
 A)
 lives alone in a self built Nordic farmhouse high in the mountains of Floor 12, 
 surviving by hunting, trapping, and keeping far away from the kind of people he once served. 
