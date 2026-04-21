@@ -24,7 +24,7 @@ For each entry, you can quickly see:
 - **Spell Save DC:** 14
 - **Spell Attack Bonus:** +6
 - **Spell Slots:** 4 level 1, 2 level 2
-- **Free Hunter's Mark casts:** 3 per Long Rest
+- **Free Hunter's Mark casts:** 2 per Long Rest
 
 ## Main combat identity
 - Strong at **ranged combat**
@@ -173,7 +173,7 @@ If you start one of these, the other concentration spell ends.
 
 **What it does:**
 - Keeps **Hunter's Mark** always prepared
-- Gives you **3 free casts of Hunter's Mark per Long Rest**
+- Gives you **2 free casts of Hunter's Mark per Long Rest**
 
 **Why you use it:**
 - Lets you use your signature combat spell efficiently

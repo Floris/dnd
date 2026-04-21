@@ -101,7 +101,7 @@ WEAPONS & DAMAGE CANTRIPS
 CLASS FEATURES
 --------------
 - Spellcasting; 6 prepared Ranger spells; Druidic Focus usable (Ranger 1)
-- Favored Enemy; Hunter's Mark always prepared; 3 free casts per Long Rest (Ranger 1)
+- Favored Enemy; Hunter's Mark always prepared; 2 free casts per Long Rest (Ranger 1)
 - Weapon Mastery; Longbow and Shortsword (Ranger 1)
 - Deft Explorer; Expertise in Stealth; 2 extra languages (Ranger 2)
 - Fighting Style; Archery, +2 to attack rolls with ranged weapons (Ranger 2)
