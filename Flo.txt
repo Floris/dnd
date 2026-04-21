@@ -192,10 +192,9 @@ Abbreviations:
 
 APPEARANCE
 ----------
-Small grey (rock) gnome with a bald head, weathered brown boots, and layered
-traveler's clothes worn under dull steel half plate. A rough brown beard
-and mustache frame a face with one missing tooth, giving him a crooked,
-streetwise grin. A coil hangs at his neck, visible even over the armor,
+Bald grey gnome with a brown beard.
+Wearing layered traveler's clothes worn under dull steel half plate.
+A coil hangs at his neck, visible even over the armor,
 while a longbow, quiver, shortsword, and clusters of kits and tools make
 him look more like a prepared scavenger-hunter than a polished soldier.
 
