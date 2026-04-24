@@ -6,7 +6,7 @@ PAGE 1
 
 BASIC INFO
 ----------
-Character Name  : Floryn
+Character Name  : Flo
 Background      : criminal
 Species         : rock gnome
 Class           : ranger
@@ -101,7 +101,7 @@ WEAPONS & DAMAGE CANTRIPS
 CLASS FEATURES
 --------------
 - Spellcasting; 6 prepared Ranger spells; Druidic Focus usable (Ranger 1)
-- Favored Enemy; Hunter's Mark always prepared; 3 free casts per Long Rest (Ranger 1)
+- Favored Enemy; Hunter's Mark always prepared; 2 free casts per Long Rest (Ranger 1)
 - Weapon Mastery; Longbow and Shortsword (Ranger 1)
 - Deft Explorer; Expertise in Stealth; 2 extra languages (Ranger 2)
 - Fighting Style; Archery, +2 to attack rolls with ranged weapons (Ranger 2)
@@ -192,13 +192,20 @@ Abbreviations:
 
 APPEARANCE
 ----------
-Small rock gnome with a bald head, weathered brown boots, and layered
-traveler's clothes worn under dull steel half plate. A rough brown beard
-and mustache frame a face with one missing tooth, giving him a crooked,
-streetwise grin. A coil hangs at his neck, visible even over the armor,
+Bald grey gnome with a brown beard.
+Wearing layered traveler's clothes worn under dull steel half plate.
+A coil hangs at his neck, visible even over the armor,
 while a longbow, quiver, shortsword, and clusters of kits and tools make
 him look more like a prepared scavenger-hunter than a polished soldier.
 
+CHARACTER BACKSTORY
+-----------------------
+Born on Floor 13, Floryn never knew his family, nor the name he should have carried. The alleys raised him instead. 
+He lived by quick fingers, sharp eyes, and a knack for vanishing before trouble could close its grip.
+He smuggled contraband, opened locked doors, and asked few questions, so long as the coin was good.
+Until the night he took the wrong job. He woke up in a hideout in the mountains of Floor 12, with no memory of what happened.
+There he learned to track blood on stone, hunt in silence, and survive where no one could save him. 
+The cunning of a thief became the discipline of a ranger, and his hands, once used for theft, became hands that killed only when they had to.
 
 WORLD BACKSTORY (other players)
 -----------------------
@@ -246,15 +253,6 @@ who act as enforcers, mediators, and scouts for the surrounding region.
 
 Braka's heart beats in The Cracked Coil, a worn tavern that hosts rumors,
 drink, and contracts for those desperate enough - or strong enough - to take them.
-
-CHARACTER BACKSTORY
------------------------
-Born on Floor 13, Floryn never knew his family, nor the name he should have carried. The alleys raised him instead. 
-He lived by quick fingers, sharp eyes, and a knack for vanishing before trouble could close its grip.
-He smuggled contraband, opened locked doors, and asked few questions, so long as the coin was good.
-Until the night he took the wrong job. He woke up in a hideout in the mountains of Floor 12, with no memory of what happened.
-There he learned to track blood on stone, hunt in silence, and survive where no one could save him. 
-The cunning of a thief became the discipline of a ranger, and his hands, once used for theft, became hands that killed only when they had to.
 
 Alignment:
 Good
